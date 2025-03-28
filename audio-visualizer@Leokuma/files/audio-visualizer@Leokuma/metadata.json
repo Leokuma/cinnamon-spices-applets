@@ -1,0 +1,7 @@
+{
+	"description": "An applet to ", // @todo
+	"uuid": "audio-visualizer@Leokuma",
+	"name": "Audio Visualizer",
+	"version": "1.0",
+	"max-instances": -1 // @remind
+}
